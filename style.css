@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+span{
+    background: linear-gradient(88.33deg, #FBA24F -7.64%, #FF1E1E 145.94%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+}
+.title-areya{
+    width: 600px;
+    height: 234px;
+    left: 100px;
+    top: 260px;
+    margin-top: 200px;
+}
+.title-areya h2{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 130%;
+    letter-spacing: -0.02;
+    color: #575757;
+}
+.title-areya p{
+margin:  30px 0px;
+width: 499px;
+left: 100px;
+top: 534px;
+font-size: 20px;
+line-height: 32px;
+letter-spacing: -0.02em;
+color: #828282;
+}
+button{
+line-height: 23.4px;
+font-size: 18px;
+width: 192px;
+border: none;
+height: 68px;
+background: linear-gradient(88.33deg, #FBA24F -7.64%, #FF1E1E 145.94%);
+box-shadow: 0px 2px 30px rgba(252, 143, 73, 0.5);
+border-radius: 100px;
+}
